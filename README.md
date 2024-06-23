@@ -8,7 +8,7 @@
 ------
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Denis J.</code>, tenho 19 anos, moro em Contagem e sou um amante da programação. Atualmente estou estudando <code>Sistema da Informação</code> na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também trabalho de assistente de técnico e informatica.
+<i><b>Olá</b> :wave:, Bem vindo ao <code>Toca do Bacalhau</code>onde se encotra os<code>melhores peixes</code> do mercado.
 </div>
 
 -----
