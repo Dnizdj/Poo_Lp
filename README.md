@@ -45,6 +45,6 @@
 <p>
 ------
 </p>
-<p>Caso queira assistir o vídeo do projeto em ação acesse o link: https://github.com/Dnizdj/Dnizdj/blob/main/img/video%20peixaria.mp4 </p>
+<p>Caso queira assistir o vídeo do projeto em ação acesse o link: https://github.com/Dnizdj/Dnizdj/blob/main/img/peixaria%202.0.mp4 </p>
 </div>
 </div>
