@@ -31,9 +31,12 @@
 <p/>
 <p> 
   Nosso projeto foi inspirado numa grande ideia de vendas de peixes, produzido por Matheus Nogueira e Denis Cesar (entusiasta a amantes de peixes, menos o peixe lua!!!).
+</br>
   A nossa aplicação tem um sistema de compras sendo elas com 4 telas pricipais e duas telas de confirmação, sendo possiveis fazer a seleção dos produtos e ao conf
 irmar lhe mostrará o total de produtos selecionados e a soma do seu carrinho. 
+</br>
   Após fazer a confirmação você será transferido para a tela de pagamento, onde você terá as formas de pagamento e também terá como verificar o carrinho novamente, assim que confirmar e clicar em pagar será feita o pagamento de forma automática e receberá uma tela de compra finalizada.
+</br>
   Ele possui uma dependência em MySQL, com o script do banco dentro do arquivo.
 </p>
 <p>
