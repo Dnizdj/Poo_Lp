@@ -3,7 +3,7 @@
 -----
 
 <div align="center">
-<img alt="Header" src="https://github.com/Dnizdj/Dnizdj/blob/main/img/Imagem1.jpg"/>
+<img alt="Header" src="https://github.com/Dnizdj/Dnizdj/blob/main/img/tela%201%20(1).png"/>
 </div>
 ------
 </div>
