@@ -8,7 +8,7 @@
 ------
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, Bem vindo ao <code>Toca do Bacalhau</code>onde se encotra os<code>melhores peixes</code> do mercado.
+<i><b>Olá</b> :wave:, Bem vindo ao <code>Toca do Bacalhau</code>onde se encontra os<code>melhores peixes</code> do mercado.
 </div>
 
 -----
