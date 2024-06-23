@@ -23,11 +23,18 @@
 <img align="right" src="https://github.com/Dnizdj/Dnizdj/blob/main/img/projetinhopai5.png" width="340px" height="520px"/> 
 </div>
   
-<img height="20" src="https://github.com/Dnizdj/Dnizdj/blob/main/img/projetinhopai.png"/> Sobre o projeto:
+<img height="25" src="https://github.com/Dnizdj/Dnizdj/blob/main/img/projetinhopai.png"/> Sobre o projeto:
 
 <div align="justify">
-<p> 
-- teste
+<p>
+------
+ Nosso projeto foi inspirado numa grande ideia de vendas de peixes, produzido por Matheus Nogueira e Denis Cesar (entusiasta a amantes de peixes, menos o peixe lua!!!).
+  A nossa aplicação tem um sistema de compras sendo elas com 4 telas pricipais e duas telas de confirmação, sendo possiveis fazer a seleção dos produtos e ao confirmar lhe mostrará o total de produtos selecionados e a soma do seu carrinho. 
+  Após fazer a confirmação você será transferido para a tela de pagamento, onde você terá as formas de pagamento e também terá como verificar o carrinho novamente, assim que confirmar e clicar em pagar será feita o pagamento de forma automática e receberá uma tela de compra finalizada.
+  Ele possui uma dependência em MySQL, com o script do banco dentro do arquivo.
+------
+  **Volte sempre!!!**
+------
 </p>
 </div>
 </div>
