@@ -46,6 +46,7 @@ irmar lhe mostrará o total de produtos selecionados e a soma do seu carrinho.
 <p>
 ------
 </p>
+<p>Caso queira assistir o video do projeto em ação acesse o link: https://github.com/Dnizdj/Dnizdj/blob/main/img/video%20peixaria.mp4 </p>
 </div>
 </div>
 
