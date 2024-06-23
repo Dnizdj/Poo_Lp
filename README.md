@@ -5,33 +5,7 @@
 <div align="center">
 <img alt="Header" src="https://github.com/Dnizdj/Dnizdj/blob/main/img/Imagem1.jpg"/>
 </div>
-
------
-
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<td><a href="https://github.com/Dnizdj" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/social.png" width="50px" height="50px"/></a>
-</td>
-<td><a href="mailto:denisjuniordj4@gmail.com" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/gmail.png" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://wa.me/5531975040144" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/whatsapp.png" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.instagram.com/denisjuniordj/" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/instagram.png" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.linkedin.com/in/denis-cesar-796617280/" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/linkedin.png" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://discordapp.com/users/dnizdj_09550" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/discor%20image.png" width="50px" height="50px"/></a>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-</table>
-
+------
 </div>
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Denis J.</code>, tenho 19 anos, moro em Contagem e sou um amante da programação. Atualmente estou estudando <code>Sistema da Informação</code> na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também trabalho de assistente de técnico e informatica.
