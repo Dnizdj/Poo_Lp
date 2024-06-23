@@ -39,7 +39,7 @@ irmar lhe mostrará o total de produtos selecionados e a soma do seu carrinho.
 <p>
 ------
 </p>
-  **Volte sempre!!!**
+  <b> Volte sempre!!! </b>
 <p>
 ------
 </p>
